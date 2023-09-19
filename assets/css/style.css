@@ -142,10 +142,10 @@
 
   background: linear-gradient(
     to right,
-    #f2e750 20%,
-    #f2b807 30%,
-    #f28705 70%,
-    #c52104 80%
+    #ffffff 20%,
+    #00ffde 30%,
+    #00424e 70%,
+    #000e18 80%
   );
   -webkit-background-clip: text;
   background-clip: text;
@@ -160,10 +160,10 @@
   margin: 5px;
   background: linear-gradient(
     to right,
-    #ffffff 20%,
-    #00ffde 30%,
-    #00424e 70%,
-    #000e18 80%
+    #f2e750 20%,
+    #f2b807 30%,
+    #f28705 70%,
+    #c52104 80%
   );
   -webkit-background-clip: text;
   background-clip: text;
